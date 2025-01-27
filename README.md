@@ -10,7 +10,6 @@ To use this script, follow these steps to set up your environment in Google Cola
 
 2. **Prepare the Notebook**:
    - You can start a new notebook by clicking on `New Notebook`.
-   - Alternatively, upload a notebook if you have a pre-prepared `.ipynb` file by selecting `File > Upload notebook`.
 
 ## Required Dependencies
 
